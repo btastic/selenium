@@ -82,7 +82,7 @@ setup_args = {
         "trio-websocket~=0.9",
         "certifi>=2021.10.8",
         "typing_extensions~=4.9",
-        "websocket-client~=1.8",
+        "websocket-client~=1.0",
     ],
     'rust_extensions': [
         RustExtension(
